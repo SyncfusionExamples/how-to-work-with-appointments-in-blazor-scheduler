@@ -3,8 +3,6 @@
 A quick start Blazor project that helps you to learn how to work with different appointment options available in Blazor Scheduler of Syncfusion.
  
 Examples:
-https://blazor.syncfusion.com/demos/scheduler/overview
-https://blazor.syncfusion.com/demos/scheduler/recurrence-events
 https://blazor.syncfusion.com/demos/scheduler/block-out-dates-and-hours 
 
 Documentation: https://blazor.syncfusion.com/documentation/scheduler/appointments

@@ -2,7 +2,7 @@
 
 ## Repository Description
 
-This sample demonstrates comprehensive appointment management capabilities in Syncfusion's Blazor Scheduler component, showcasing various appointment options, configurations, and best practices for scheduling applications built with Blazor and ASP.NET Core technologies.
+This sample demonstrates comprehensive appointment management capabilities in [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler) component, showcasing various appointment options, configurations, and best practices for scheduling applications built with Blazor and ASP.NET Core technologies.
 
 ## Project Overview
 

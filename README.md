@@ -1,12 +1,6 @@
 # How to Work with Appointments in Blazor Scheduler    
 
-## Repository Description
-
-This sample demonstrates comprehensive appointment management capabilities in [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler) component, showcasing various appointment options, configurations, and best practices for scheduling applications built with Blazor and ASP.NET Core technologies.
-
-## Project Overview
-
-The Blazor Scheduler is a powerful scheduling component that enables developers to create feature-rich calendar applications. This repository provides practical examples of working with different appointment options, including recurring events, time slots, resource management, and appointment customization. It serves as a reference implementation for developers looking to integrate advanced scheduling functionality into their Blazor applications.
+This sample highlights appointment management capabilities using the [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler), covering key configurations and features such as recurring events, time slots, resource handling, and appointment customization. It demonstrates how to build robust, feature-rich scheduling applications with Blazor and ASP.NET Core, serving as a practical reference for implementing advanced scheduling functionality.
 
 ## Features
 
@@ -21,16 +15,15 @@ The Blazor Scheduler is a powerful scheduling component that enables developers 
 
 * Visual Studio 2022
 * .NET 6.0 or later
-* Syncfusion Blazor License or Community License
 
 ## Getting Started
 
 ### Installation
 
-1. Checkout this project to a location on your disk
+1. Checkout this project to your local machine
 2. Open the solution file using Visual Studio 2022
-3. Restore the NuGet packages by rebuilding the solution
-4. Run the project
+3. Restore the NuGet packages
+4. Build the solution
 
 ### Configuration
 
@@ -40,6 +33,9 @@ Configure the Scheduler component in your Blazor pages to enable appointment man
 * Configure working hours and business hours
 * Define resource settings
 * Customize appointment templates
+
+### Running the Application
+1. Press `F5` to start the application
 
 ## Documentation
 

@@ -22,8 +22,7 @@ This sample highlights appointment management capabilities using the [Blazor Sch
 
 1. Checkout this project to your local machine
 2. Open the solution file using Visual Studio 2022
-3. Restore the NuGet packages
-4. Build the solution
+3. Build the solution to automatically restore the required NuGet packages.
 
 ### Configuration
 

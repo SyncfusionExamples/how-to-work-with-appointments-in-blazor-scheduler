@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/WorkingWithAppointments.Shared.props" />
+</Project>

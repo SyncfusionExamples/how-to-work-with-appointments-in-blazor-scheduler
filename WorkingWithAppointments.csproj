@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="WorkingWithAppointments.Client\**" />
+    <Compile Remove="Shared\**" />
+    <Content Remove="WorkingWithAppointments.Client\**" />
+    <Content Remove="Shared\**" />
+    <None Remove="WorkingWithAppointments.Client\**" />
+    <None Remove="Shared\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="10.0.13" />
+    <PackageReference Include="Syncfusion.Blazor.Schedule" Version="35.1.41" />
+    <PackageReference Include="Syncfusion.Blazor.Themes" Version="35.1.41" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="WorkingWithAppointments.Client\WorkingWithAppointments.Client.csproj" />
+  </ItemGroup>
+
+</Project>

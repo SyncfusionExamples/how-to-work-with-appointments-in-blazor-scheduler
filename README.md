@@ -14,7 +14,7 @@ This sample highlights appointment management capabilities using the [Blazor Sch
 ## Prerequisites
 
 * Visual Studio 2022
-* .NET 6.0 or later
+* .NET 10.0 or later
 
 ## Getting Started
 

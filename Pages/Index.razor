@@ -1,7 +1,5 @@
 @page "/"
 
-<PageTitle>Appointments</PageTitle>
-
 <SfSchedule TValue="AppointmentDataModel" Readonly="true" @bind-SelectedDate="@DateValue" @bind-CurrentView="@CurrentView">
     <ScheduleEventSettings DataSource="@ScheduleData" EnableTooltip="true">
     </ScheduleEventSettings>

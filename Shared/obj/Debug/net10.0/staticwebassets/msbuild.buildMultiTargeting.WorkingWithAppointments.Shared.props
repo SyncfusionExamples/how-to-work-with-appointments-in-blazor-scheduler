@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/WorkingWithAppointments.Shared.props" />
-</Project>
